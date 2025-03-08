@@ -7,4 +7,5 @@ Columns include product details, sales data, customer information, and regional 
 
 # Data Cleaning Summary:
 Successfully converted Sale_Date to a datetime format.
+
 No duplicate rows were found.
